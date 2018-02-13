@@ -29,5 +29,8 @@
     "browserify": "10.2.3",
     "moment": "2.10.3",
     "watchify": "3.2.1"
+  },
+  "dependencies": {
+    "react-dom-factories": "^1.0.0"
   }
 }

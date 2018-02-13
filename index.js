@@ -1,5 +1,5 @@
 var React = require('react');
-var D = React.DOM;
+var D = require('react-dom-factories');
 var createReactClass = require('create-react-class');
 
 var Symbol = require('./symbol');

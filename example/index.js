@@ -3,7 +3,7 @@ var render = require('react-dom').render;
 var moment = require('moment');
 var createReactClass = require('create-react-class');
 
-var D = React.DOM;
+var D = require('react-dom-factories');
 
 var TransitiveNumber = require('..');
 var transitiveNumber = React.createFactory(TransitiveNumber);
